@@ -1,0 +1,9 @@
+cfg:
+  max_length: 128
+  truncation: longest_first
+  learning_rate: 5e-6
+  batch_size: 64
+  epochs: 10
+  save_steps: 500
+  output_dir: "./model_binary/multitask_model"
+  patience: 3

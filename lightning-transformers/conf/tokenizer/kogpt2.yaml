@@ -1,0 +1,4 @@
+# @package tokenizer
+_target_: models.kogpt2.tokenization_kogpt2.KoGPT2TokenizerFast.from_pretrained
+pretrained_model_name_or_path: ${backbone.pretrained_model_name_or_path}
+use_fast: true

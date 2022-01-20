@@ -1,0 +1,20 @@
+pytorch-lightning>=1.2.4
+torch>=1.6
+numpy
+
+#metrics
+torchmetrics>=0.2.0
+
+# extras
+fairscale
+
+# huggingface
+transformers
+datasets
+
+# hydra
+hydra-core>=1.1.0.dev4 # todo: swap to 1.1 version once out
+
+# task-specific
+rouge-score
+sentencepiece

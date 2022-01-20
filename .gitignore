@@ -1,0 +1,12 @@
+*.idea/
+venv/
+*.DS_Store
+*.py.lock
+__pycache__/
+*outputs
+*.log
+.vscode
+*.ipynb
+*.json
+.python-version
+*.ckpt

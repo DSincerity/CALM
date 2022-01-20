@@ -1,0 +1,4 @@
+_target_: pytorch_lightning.callbacks.EarlyStopping
+monitor: 'val_accuracy'
+mode: 'max'
+patience: 3
