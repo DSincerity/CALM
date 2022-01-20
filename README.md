@@ -1,8 +1,8 @@
 # CALM
-Consistency Analysis on Language Model
+###Consistency Analysis on Language Model
 
 - This repository is for the paper : [Accurate, yet inconsistent? Consistency Analysis on Language Understanding Models](https://arxiv.org/abs/2108.06665)
-- Codes in this repository sourced from the original repo which is currently private as it is tightly related to another ongoing project. The original repo will be switched to public after March.
+- Codes in this repository were partly sourced from the original repo which is currently private as it is tightly related to another ongoing project. The original repo will be switched to public after March.
 
 ### set up
 ```
